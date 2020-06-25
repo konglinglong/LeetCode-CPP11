@@ -41,7 +41,7 @@ public:
 	}
 };
 
-TEST_CASE ("merge")
+TEST_CASE ("insert")
 {
 	Solution solution;
 	vector<vector<int>> vec_in1 = {{1,2},{3,5},{6,7},{8,10},{12,16}};

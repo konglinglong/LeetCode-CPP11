@@ -61,7 +61,7 @@ public:
 	}
 };
 
-TEST_CASE ("merge")
+TEST_CASE ("addBinary")
 {
 	Solution solution;
 	CHECK(solution.addBinary("1010", "1011") == "10101");
